@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['onconnected',['OnConnected',['../a00002.html#a41de33d7fcd742bbcde4489476c4b855',1,'TechTweaking::BtLibrary::BtConnector']]],
-  ['ondevicenotfound',['OnDeviceNotFound',['../a00002.html#a8fe7059f470ee3907be54aad2d631d36',1,'TechTweaking::BtLibrary::BtConnector']]],
-  ['ondisconnected',['OnDisconnected',['../a00002.html#a2238e4864fc2269483e122ca0b0b7842',1,'TechTweaking::BtLibrary::BtConnector']]]
+  ['bluetoothdevice',['BluetoothDevice',['../class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html',1,'TechTweaking::Bluetooth']]],
+  ['bluetoothdevice',['BluetoothDevice',['../class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html#a2b0b0dc51fda763b08d81ee767bc3f35',1,'TechTweaking::Bluetooth::BluetoothDevice']]],
+  ['bt',['Bt',['../class_tech_tweaking_1_1_bluetooth_1_1_bt.html',1,'TechTweaking::Bluetooth']]]
 ];

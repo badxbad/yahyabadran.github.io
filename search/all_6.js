@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['isbluetoothenabled',['isBluetoothEnabled',['../class_tech_tweaking_1_1_bt_core_1_1_bt_bridge_1_1_bt_bridge.html#ae5b972a78f42d190eb04688854626760',1,'TechTweaking.BtCore.BtBridge.BtBridge.isBluetoothEnabled()'],['../class_tech_tweaking_1_1_bt_library_1_1_bt_connector.html#ab2578414d47f03740b83cfa8bda67798',1,'TechTweaking.BtLibrary.BtConnector.isBluetoothEnabled()']]],
-  ['isready',['isReady',['../class_tech_tweaking_1_1_bt_core_1_1_bt_bridge_1_1_bt_bridge.html#a11f577bb0c4ac19d2c4a1217cda9aa90',1,'TechTweaking::BtCore::BtBridge::BtBridge']]]
+  ['isbluetoothenabled',['isBluetoothEnabled',['../class_tech_tweaking_1_1_bluetooth_1_1_bt.html#ac644a73ec6df59e629bab6d2110994a1',1,'TechTweaking::Bluetooth::Bt']]],
+  ['isconnected',['IsConnected',['../class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html#a0dee4eeeea343d202d6ba1539d005e9d',1,'TechTweaking::Bluetooth::BluetoothDevice']]],
+  ['isdataavailable',['IsDataAvailable',['../class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html#a3cba0072064521ec314e60cbc771e6ae',1,'TechTweaking::Bluetooth::BluetoothDevice']]],
+  ['isreading',['IsReading',['../class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html#a13f5741262a5bd6d87c49d1ac40b50cd',1,'TechTweaking::Bluetooth::BluetoothDevice']]]
 ];

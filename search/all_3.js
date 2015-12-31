@@ -1,9 +1,4 @@
 var searchData=
 [
-  ['btbridge',['BtBridge',['../a00011.html',1,'TechTweaking::BtCore']]],
-  ['btcore',['BtCore',['../a00010.html',1,'TechTweaking']]],
-  ['btlibrary',['BtLibrary',['../a00012.html',1,'TechTweaking']]],
-  ['the_20mainpage_20documentation',['The mainpage documentation',['../index.html',1,'']]],
-  ['techtweaking',['TechTweaking',['../a00009.html',1,'']]],
-  ['test',['test',['../a00001.html#ac623f8f9c01f367d56bd446f545b1f79',1,'TechTweaking::BtCore::BtBridge::BtBridge']]]
+  ['disablebluetooth',['disableBluetooth',['../class_tech_tweaking_1_1_bluetooth_1_1_bt.html#a7727763e54052d7bdbc4bd473feb511f',1,'TechTweaking::Bluetooth::Bt']]]
 ];

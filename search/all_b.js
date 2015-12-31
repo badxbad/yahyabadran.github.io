@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['btbridge',['BtBridge',['../namespace_tech_tweaking_1_1_bt_core_1_1_bt_bridge.html',1,'TechTweaking::BtCore']]],
-  ['btcore',['BtCore',['../namespace_tech_tweaking_1_1_bt_core.html',1,'TechTweaking']]],
-  ['btlibrary',['BtLibrary',['../namespace_tech_tweaking_1_1_bt_library.html',1,'TechTweaking']]],
-  ['techtweaking',['TechTweaking',['../namespace_tech_tweaking.html',1,'']]],
-  ['test',['test',['../class_tech_tweaking_1_1_bt_core_1_1_bt_bridge_1_1_bt_bridge.html#ac623f8f9c01f367d56bd446f545b1f79',1,'TechTweaking::BtCore::BtBridge::BtBridge']]]
+  ['read',['read',['../class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html#a52c89198799f4436d3b91dbe039eae71',1,'TechTweaking.Bluetooth.BluetoothDevice.read()'],['../class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html#afd8c4dbde6dba680c2ef928dda5b6684',1,'TechTweaking.Bluetooth.BluetoothDevice.read(int size)']]],
+  ['readingcoroutine',['ReadingCoroutine',['../class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html#a4284ae28c832c394269125a0fcd1679f',1,'TechTweaking::Bluetooth::BluetoothDevice']]]
 ];
