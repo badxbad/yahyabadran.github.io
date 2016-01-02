@@ -27,7 +27,7 @@
    <div id="projectname">BtLibrary
    &#160;<span id="projectnumber">0.8</span>
    </div>
-   <div id="projectbrief">Bluetooth Classic API for Unity - Game Engine</div>
+   <div id="projectbrief">Bluetooth Classic Library for Unity</div>
   </td>
  </tr>
  </tbody>
@@ -84,7 +84,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="textblock"><h1>The BtLibrary </h1>
 <p>This Library will be available with Version 4.0 as an extra choice for those who want to have more control over the Android Bluetooth API.</p>
 <h1>Connecting by Name or Mac Address </h1>
-<p>We need the <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html">TechTweaking.Bluetooth.BluetoothDevice</a> which will be the remote device that we connect to.</p>
+<p>We need the <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html" title="Represents a remote Bluetooth device. ">TechTweaking.Bluetooth.BluetoothDevice</a> which will be the remote device that we connect to.</p>
 <div class="fragment"><div class="line">BluetoothDevice device = <span class="keyword">new</span> BluetoothServer();</div>
 </div><!-- fragment --><p>Identify the device either by its mac address or by its name, so the BtLibrary can find it and connect to it:</p>
 <div class="fragment"><div class="line">device.Name = <span class="stringliteral">&quot;HC-05&quot;</span>;</div>
@@ -95,7 +95,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <p>Now connect to the device  </p><div class="fragment"><div class="line">device.connect()</div>
 </div><!-- fragment --><p><a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html#a08abf59c2f066a43432e6a5e1e52c1a9" title="Connect to this device. ">TechTweaking.Bluetooth.BluetoothDevice::connect()</a> will start a process to search for a device that matches its <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html#a8f56667830de49f1cd0787e6e3c757e8" title="Gets or sets the name of this device. ">TechTweaking.Bluetooth.BluetoothDevice::Name</a> or <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html#a34c0a77125da9df297f08981e8bd857f" title="Gets or sets the mac address of this device. ">TechTweaking.Bluetooth.BluetoothDevice::MacAddress</a> property. . If the device isn’t paired, the process will try to find it through a heavy and time consuming manner, so it's better to use pre-paired devices.</p>
 <h1>Connecting using Bluetooth devices list </h1>
-<p>The following two methods generate list of <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html">TechTweaking.Bluetooth.BluetoothDevice</a> instances : <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bt.html#a8001812152740a1ee55eaf85bcde8532" title="Display the default Android Bluetooth devices list. ">TechTweaking.Bluetooth.Bt::showDevices()</a>, <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bt.html#aba602247d1e3697a6bf7415ca8486361" title="Gets the paired devices. ">TechTweaking.Bluetooth.Bt::getPairedDevices()</a>.</p>
+<p>The following two methods generate list of <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bluetooth_device.html" title="Represents a remote Bluetooth device. ">TechTweaking.Bluetooth.BluetoothDevice</a> instances : <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bt.html#a8001812152740a1ee55eaf85bcde8532" title="Display the default Android Bluetooth devices list. ">TechTweaking.Bluetooth.Bt::showDevices()</a>, <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bt.html#aba602247d1e3697a6bf7415ca8486361" title="Gets the paired devices. ">TechTweaking.Bluetooth.Bt::getPairedDevices()</a>.</p>
 <h2><a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bt.html#a8001812152740a1ee55eaf85bcde8532" title="Display the default Android Bluetooth devices list. ">TechTweaking.Bluetooth.Bt::showDevices()</a> </h2>
 <p>Display the default Android Bluetooth devices list. Subscribe to <a class="el" href="class_tech_tweaking_1_1_bluetooth_1_1_bt.html#a40cae1e610666e28554edc0124234d46" title="Occurs when on a device picked by user from the default Android Bluetooth devices list...">TechTweaking.Bluetooth.Bt::OnDevicePicked</a> Event in order to get a reference of the picked device.</p>
 <div class="fragment"><div class="line"><span class="comment">//The following code tries to connect to any device picked by user.</span></div>
